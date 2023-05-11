@@ -53,14 +53,14 @@
 
 | No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
-| 1 | Ape Chain |  |  |  |
-| 2 | Arbitrum Nova |  |  |  |
-| 3 | Arbitrum One |  |  |  |
-| 4 | Binance Smart Chain (BNB) |  |  |  |
-| 5 | Ethereum Mainnet |  |  |  |
-| 6 | Polygon (Matic) |  |  |  |
-| 7 | Polygon ZK-EVM |  |  |  |
-| 8 | SPS |  |  |  |
+| 1 | Ape Chain | :white_check_mark: |  |  |
+| 2 | Arbitrum Nova | :white_check_mark:  |  |  |
+| 3 | Arbitrum One | :white_check_mark: |  |  |
+| 4 | Binance Smart Chain (BNB) | :white_check_mark:  |  |  |
+| 5 | Ethereum Mainnet | :white_check_mark: |  |  |
+| 6 | Polygon (Matic) | :white_check_mark: |  |  |
+| 7 | Polygon ZK-EVM | :white_check_mark: |  |  |
+| 8 | SPS | :white_check_mark: |  |  |
 
 
 # XP.NETWORK
