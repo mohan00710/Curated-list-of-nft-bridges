@@ -2,7 +2,7 @@
 
 > Supported chains  are taken from the documentation provided by the bridges and from their app ui , so currently it is not assured that all chains mentiond here will work 
 
-> STILL UNDER DEVELOPMENT
+> STILL UNDER DEVELOPMENT   :hammer:
 
 
 # WORMHOLE
@@ -14,23 +14,24 @@
 
 | No. | chain | Testnet | Mainnet | Is Verified |
 | --- | --- | --- | --- | --- |
-| 1 | Acala |  |  |  |
-| 2 | Aptos |   |  |  |
-| 3 | Arbitrum |  |  |  |
-| 4 | Aurora |  |  |  |
-| 5 | Avalanche |  |  |  |
-| 6 | Binance Smart Chain (BNB) |  |  |  |
-| 7 | Celo |  |  |  |
-| 8 | Ethereum |  |  |  |
-| 9 | Fantom |  |  |  |
-| 10 | Karura |  |  |  |
-| 11 | Klaytn |  |  |  |
-| 12 | Moonbeam |  |  |  |
-| 13 | Oasis |  |  |  |
-| 14 | Optimism |  |  |  |
-| 15 | Polygon (Matic) |  |  |  |
-| 16 | Solana |  |  |  |
-`
+| 1 | Acala | :white_check_mark:  | :white_check_mark: |  |
+| 2 | Aptos | :white_check_mark:   |  |  |
+| 3 | Arbitrum | :white_check_mark:  | :white_check_mark: |  |
+| 4 | Aurora | :white_check_mark: | :white_check_mark: |  |
+| 5 | Avalanche | :white_check_mark:  | :white_check_mark: |  |
+| 6 | Binance Smart Chain (BNB) | :white_check_mark:  | :white_check_mark: |  |
+| 7 | Celo | :white_check_mark:  | :white_check_mark: |  |
+| 8 | Ethereum | :white_check_mark:  | :white_check_mark:  |  |
+| 9 | Fantom | :white_check_mark:  | :white_check_mark:  |  |
+| 10 | Karura | :white_check_mark:  | :white_check_mark: |  |
+| 11 | Klaytn | :white_check_mark:  | :white_check_mark: |  |
+| 12 | Moonbeam | :white_check_mark:  |  |  |
+| 13 | Oasis | :white_check_mark:  | :white_check_mark: |  |
+| 14 | Optimism | :white_check_mark: | :white_check_mark: |  |
+| 15 | Polygon (Matic) | :white_check_mark:  |:white_check_mark:  |  |
+| 16 | Solana | :white_check_mark:  | :white_check_mark:  |  |
+
+> for detailed list and updates https://book.wormhole.com/reference/contracts.html
 
 
 # CELER BRIDGE
