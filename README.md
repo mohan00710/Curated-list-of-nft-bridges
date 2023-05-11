@@ -5,6 +5,16 @@
 > STILL UNDER DEVELOPMENT   :hammer:
 
 
+> ### Commonly supported chains
+>  - Ethereum 
+>  - Polygon (Matic) 
+>  - Binance Smart Chain (BNB) 
+>  - Avalanche 
+>  - Fantom 
+>  - Solana 
+>  - Moonbeam 
+>  - OKExChain 
+
 # WORMHOLE
 
 > https://www.portalbridge.com/#/nft
