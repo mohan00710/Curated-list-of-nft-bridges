@@ -2,6 +2,8 @@
 
 > Supported chains  are taken from the documentation provided by the bridges and from their app ui , so currently it is not assured that all chains mentiond here will work 
 
+> STILL UNDER DEVELOPMENT
+
 
 # WORMHOLE
 
