@@ -72,33 +72,32 @@
 
 | No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
-| 1 | Abey |  |  |  |
-| 2 | Algorand |  |  |  |
-| 3 | Aurora |  |  |  |
-| 4 | Avalanche |  |  |  |
-| 5 | Binance Smart Chain (BSC) |  |  |  |
-| 6 | Caduceus |  |  |  |
-| 7 | Ethereum | |  |  |
-| 8 | Fantom |  |  |  |
-| 9 | Fuse |  |  |  |
-| 10 | GateChain |  |  |  |
-| 11 | Gnosis |  |  |  |
-| 12 | Godwoken |  |  |  |
-| 13 | Harmony |  |  |  |
-| 14 | IoTeX |  |  |  |
-| 15 | Moonbeam |  |  |  |
-| 16 | Matic (Polygon) |  |  |  |
-| 17 | Multiverse |  |  |  |
-| 18 | OKC |  |  |  |
-| 19 | Polygon (Matic) |  |  |  |
-| 20 | Secret |  |  |  |
-| 21 | Skale |  |  |  |
-| 22 | Solana |  |  |  |
-| 23 | TON |  |  |  |
-| 24 | Tron |  |  |  |
-| 25 | VeChain |  |  |  |
-| 26 | Velas |  |  |  |
-| 27 | Tezos |  |  |  |
+| 1 | Abey | :white_check_mark:  |  |  |
+| 2 | Algorand | :white_check_mark:  |  |  |
+| 3 | Aurora | :white_check_mark:  |  |  |
+| 4 | Avalanche | :white_check_mark:  |  |  |
+| 5 | Binance Smart Chain (BSC) | :white_check_mark:  |  |  |
+| 6 | Caduceus | :white_check_mark:  |  |  |
+| 7 | Ethereum | :white_check_mark: |  |  |
+| 8 | Fantom | :white_check_mark:  |  |  |
+| 9 | Fuse | :white_check_mark:  |  |  |
+| 10 | GateChain | :white_check_mark:  |  |  |
+| 11 | Gnosis | :white_check_mark:  |  |  |
+| 12 | Godwoken | :white_check_mark:  |  |  |
+| 13 | Harmony | :white_check_mark:  |  |  |
+| 14 | IoTeX | :white_check_mark:  |  |  |
+| 15 | Moonbeam | :white_check_mark:  |  |  |
+| 16 | Multiverse | :white_check_mark:  |  |  |
+| 17 | OKC | :white_check_mark:  |  |  |
+| 18 | Polygon (Matic) | :white_check_mark:  |  |  |
+| 19 | Secret | :white_check_mark:  |  |  |
+| 20 | Skale | :white_check_mark:  |  |  |
+| 21 | Solana | :white_check_mark:  |  |  |
+| 22 | TON | :white_check_mark:  |  |  |
+| 23 | Tron | :white_check_mark:  |  |  |
+| 24 | VeChain | :white_check_mark:  |  |  |
+| 25 | Velas | :white_check_mark:  |  |  |
+| 26 | Tezos | :white_check_mark:  |  |  |
 
 
 # CROSS-CHAIN BRIDGE V2
