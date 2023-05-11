@@ -12,7 +12,7 @@
 ## Supported Chains
 
 
-| No. | chain | Testnet | Mainnet | Is Verified |
+| No. | chain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
 | 1 | Acala | :white_check_mark:  | :white_check_mark: |  |
 | 2 | Aptos | :white_check_mark:   |  |  |
@@ -41,7 +41,7 @@
 ## Supported Chains
 
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
 | 1 | Ape Chain |  |  |  |
 | 2 | Arbitrum Nova |  |  |  |
@@ -60,7 +60,7 @@
 ## Supported Chains
 
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
 | 1 | Abey |  |  |  |
 | 2 | Algorand |  |  |  |
@@ -100,7 +100,7 @@
 Sure, here's the updated markdown code for the table with the requested blockchains:
 
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
 | 1 | Avalanche |  |  |  |
 | 2 | Binance Smart Chain (BNB) |  |  |  |
@@ -117,7 +117,7 @@ You can copy and paste this code into your markdown editor and fill in the empty
 
 ## Supported Chain
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
 | 1 | Arbitrum | |  |  |
 | 2 | Avalanche C-Chain |  |  |  |
@@ -153,7 +153,7 @@ You can copy and paste this code into your markdown editor and fill in the empty
 
 ## Supported Chains
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
 | 1 | Avalanche |  |  |  |
 | 2 | Binance Smart Chain (BSC) |  |  |  |
@@ -182,11 +182,11 @@ You can copy and paste this code into your markdown editor and fill in the empty
 
 ## Supported Chains
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
-| 1 | Bitcoin |:white_check_mark:  |  |  |
-| 2 | Ethereum | :white_check_mark: | |  |
-| 3 | Blockstack (Stacks) | :white_check_mark:  |  |  |
+| 1 | Bitcoin | | :white_check_mark: |  |
+| 2 | Ethereum | | :white_check_mark: |  |
+| 3 | Blockstack (Stacks) |  | :white_check_mark: |  |
 
 
 # NFT HASHI
@@ -195,11 +195,11 @@ You can copy and paste this code into your markdown editor and fill in the empty
 
 ## Supported Chains
 
-| No. | Blockchain | Testnet | Mainnet | Is Verified |
+| No. | Blockchain | Mainnet | Testnet | Is Verified |
 | --- | --- | --- | --- | --- |
-| 1 | Ethereum | :white_check_mark: |  |  |
-| 2 | Optimism | :white_check_mark: | |  |
-| 3 | Polygon (Matic) | :white_check_mark: |  |  |
+| 1 | Ethereum |  | :white_check_mark: |  |
+| 2 | Optimism |  | :white_check_mark: |  |
+| 3 | Polygon (Matic) |  | :white_check_mark: |  |
 
 
 
